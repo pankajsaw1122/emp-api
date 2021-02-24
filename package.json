@@ -1,0 +1,19 @@
+{
+  "name": "emp_api",
+  "version": "1.0.0",
+  "description": "employee rest api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "moment": "^2.29.1",
+    "mysql2": "^2.2.5"
+  }
+}
